@@ -4,14 +4,6 @@ Java Developer focused on backend systems, clean code, and building a strong fou
 
 I’m currently focused on backend development with Java, SQL, Git, GitHub, and eventually Spring Boot. My long-term goal is to become a senior backend developer and help more people get into tech by making programming concepts easier to understand.
 
-Current Focus
-- Java backend development
-- Object-Oriented Programming
-- Data structures and algorithms
-- SQL and relational databases
-- Git, GitHub, and developer workflows
-- Building clean, well-documented projects
-
 What I'm Building
 
 I’m using this GitHub as a public learning portfolio, 
