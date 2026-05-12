@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey, I'm casañas 👋
 
-<!--
-**Gwtc12/Gwtc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer focused on backend systems, clean code, and building a strong foundation in software engineering.
 
-Here are some ideas to get you started:
+I’m currently focused on backend development with Java, SQL, Git, GitHub, and eventually Spring Boot. My long-term goal is to become a senior backend developer and help more people get into tech by making programming concepts easier to understand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+- Java backend development
+- Object-Oriented Programming
+- Data structures and algorithms
+- SQL and relational databases
+- Git, GitHub, and developer workflows
+- Building clean, well-documented projects
+
+What I'm Building
+
+I’m using this GitHub as a public learning portfolio, 
+and archive for people who what to learn Java.
+
+Goal
+My goal is to become a senior backend developer by building strong fundamentals, documenting my learning process, and creating projects that show real technical growth.
+I also want to help others get into tech by explaining programming in a simple, practical, and stylish way.
